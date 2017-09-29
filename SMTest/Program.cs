@@ -17,7 +17,7 @@ namespace SMTest
             Email newEmail = GetUserInput();
 
             bool answer = AskToSendEmail();
-
+            //test
              if (answer == true)
              {
                  SendEmail(newEmail);
