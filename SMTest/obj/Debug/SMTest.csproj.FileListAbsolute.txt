@@ -1,0 +1,6 @@
+c:\users\eechimenco\documents\visual studio 2015\Projects\SMTest\SMTest\bin\Debug\SMTest.exe.config
+c:\users\eechimenco\documents\visual studio 2015\Projects\SMTest\SMTest\bin\Debug\SMTest.exe
+c:\users\eechimenco\documents\visual studio 2015\Projects\SMTest\SMTest\bin\Debug\SMTest.pdb
+c:\users\eechimenco\documents\visual studio 2015\Projects\SMTest\SMTest\obj\Debug\SMTest.exe
+c:\users\eechimenco\documents\visual studio 2015\Projects\SMTest\SMTest\obj\Debug\SMTest.pdb
+C:\Users\eechimenco\Documents\Visual Studio 2015\Projects\SMTest\SMTest\obj\Debug\SMTest.csprojResolveAssemblyReference.cache
