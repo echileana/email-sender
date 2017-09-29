@@ -13,7 +13,7 @@ namespace SMTest
     {
            static void Main(string[] args)
         {
-
+            //app working properly
             Email newEmail = GetUserInput();
 
             bool answer = AskToSendEmail();
